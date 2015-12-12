@@ -17,6 +17,6 @@ public class doAction {
 				counter = 0;
 			}
 		}
-		System.out.println("---èIóπ---");
+		System.out.println("---ÁµÇ‰∫Ü---");
  }
 }
