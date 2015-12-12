@@ -2,7 +2,6 @@ package com.runner;
 
 import java.util.List;
 
-
 public class doAction {
  doAction(List<String> words, int speed, int count) throws Exception{
 	    System.out.println(words.get(0));
@@ -17,6 +16,8 @@ public class doAction {
 				counter = 0;
 			}
 		}
-		System.out.println("---終了---");
+		System.out.println("---状態終了---");
+		System.out.println("状態: G - F - T - M");
+		System.out.println("プログラム終了: X");
  }
 }
